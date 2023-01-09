@@ -25,7 +25,7 @@ class App extends Component {
       <>
         <nav className="navbar">
           <div className="navitems">
-            <h2>LetsGrowMore</h2>
+            <h2>API Project</h2>
             <button className="fetchbtn" onClick={this.updateState}>
               Get Users
             </button>
